@@ -1,4 +1,4 @@
-package org.apache.cordova.radiox.remote.Database
+package com.joachimneumann.bisq.Database
 
 // This class contains the data received from the notifiaction server
 // It lacks the received timestamp for example

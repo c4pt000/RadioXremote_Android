@@ -1,4 +1,4 @@
-package org.apache.cordova.radiox.remote
+package com.joachimneumann.bisq
 
 import org.junit.Test
 

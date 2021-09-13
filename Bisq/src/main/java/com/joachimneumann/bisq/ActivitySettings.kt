@@ -1,4 +1,4 @@
-package org.apache.cordova.radiox.remote
+package com.joachimneumann.bisq
 
 import android.arch.lifecycle.ViewModelProviders
 import android.content.Intent
@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.widget.Button
 import android.widget.TextView
-import org.apache.cordova.radiox.remote.Database.BisqNotification
+import com.joachimneumann.bisq.Database.BisqNotification
 import java.util.Date
 import android.content.pm.PackageManager
 import android.R.attr.versionName

@@ -1,4 +1,4 @@
-package org.apache.cordova.radiox.remote
+package com.joachimneumann.bisq
 
 import android.app.*
 import android.content.BroadcastReceiver
@@ -8,10 +8,10 @@ import android.graphics.Color
 import android.os.Build
 import android.util.Log
 import com.google.gson.GsonBuilder
-import org.apache.cordova.radiox.remote.Database.BisqNotification
-import org.apache.cordova.radiox.remote.Database.DateDeserializer
-import org.apache.cordova.radiox.remote.Database.NotificationRepository
-import org.apache.cordova.radiox.remote.Database.NotificationType
+import com.joachimneumann.bisq.Database.BisqNotification
+import com.joachimneumann.bisq.Database.DateDeserializer
+import com.joachimneumann.bisq.Database.NotificationRepository
+import com.joachimneumann.bisq.Database.NotificationType
 import java.util.*
 
 const val BISQ_MESSAGE_ANDROID_MAGIC = "BisqMessageAndroid"

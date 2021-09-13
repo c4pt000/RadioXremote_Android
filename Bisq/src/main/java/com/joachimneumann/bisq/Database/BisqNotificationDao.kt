@@ -1,4 +1,4 @@
-package org.apache.cordova.radiox.remote.Database
+package com.joachimneumann.bisq.Database
 
 import android.arch.lifecycle.LiveData
 import android.arch.persistence.room.*

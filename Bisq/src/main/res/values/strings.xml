@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">RadioX-exchange-remote</string>
+    <string name="app_name">RadioX-Remote</string>
     <string name="button_pair">Pair</string>
     <string name="button_email">Send token to myself</string>
     <string name="button_next">Next</string>
