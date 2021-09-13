@@ -1,4 +1,4 @@
-package com.joachimneumann.bisq.Database
+package org.apache.cordova.radiox.remote.Database
 
 import android.util.Log
 

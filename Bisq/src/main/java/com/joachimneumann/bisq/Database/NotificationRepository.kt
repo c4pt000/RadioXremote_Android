@@ -1,4 +1,4 @@
-package com.joachimneumann.bisq.Database
+package org.apache.cordova.radiox.remote.Database
 
 import android.arch.lifecycle.LiveData
 import android.content.Context

@@ -1,4 +1,4 @@
-package com.joachimneumann.bisq
+package org.apache.cordova.radiox.remote
 
 import android.content.Context
 import android.support.test.InstrumentationRegistry
@@ -21,6 +21,6 @@ class ExampleInstrumentedTest {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
 
-        assertEquals("com.joachimneumann.bisq", appContext.packageName)
+        assertEquals("org.apache.cordova.radiox.remote", appContext.packageName)
     }
 }

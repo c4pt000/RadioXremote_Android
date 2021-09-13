@@ -1,4 +1,4 @@
-package com.joachimneumann.bisq
+package org.apache.cordova.radiox.remote
 
 import android.util.Base64
 import java.nio.charset.Charset

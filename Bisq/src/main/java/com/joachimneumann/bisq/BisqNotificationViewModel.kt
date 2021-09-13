@@ -1,12 +1,12 @@
-package com.joachimneumann.bisq
+package org.apache.cordova.radiox.remote
 
 
 import android.app.Application
 import android.arch.lifecycle.AndroidViewModel
 import android.arch.lifecycle.LiveData
-import com.joachimneumann.bisq.Database.BisqNotification
+import org.apache.cordova.radiox.remote.Database.BisqNotification
 
-import com.joachimneumann.bisq.Database.NotificationRepository
+import org.apache.cordova.radiox.remote.Database.NotificationRepository
 import kotlinx.coroutines.experimental.async
 import kotlinx.coroutines.experimental.runBlocking
 

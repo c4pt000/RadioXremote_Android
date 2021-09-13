@@ -1,4 +1,4 @@
-package com.joachimneumann.bisq
+package org.apache.cordova.radiox.remote
 
 import android.content.Context
 import android.graphics.Canvas

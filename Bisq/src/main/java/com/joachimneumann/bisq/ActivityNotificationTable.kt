@@ -1,4 +1,4 @@
-package com.joachimneumann.bisq
+package org.apache.cordova.radiox.remote
 
 import android.app.NotificationChannel
 import android.app.NotificationManager
@@ -16,7 +16,7 @@ import android.support.v7.widget.RecyclerView
 import android.support.v7.widget.Toolbar
 import android.view.Menu
 import android.view.MenuItem
-import com.joachimneumann.bisq.Database.BisqNotification
+import org.apache.cordova.radiox.remote.Database.BisqNotification
 import android.support.v7.widget.helper.ItemTouchHelper
 import android.util.Log
 import android.widget.Toast

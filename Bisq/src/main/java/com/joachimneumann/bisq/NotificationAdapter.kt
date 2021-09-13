@@ -1,4 +1,4 @@
-package com.joachimneumann.bisq
+package org.apache.cordova.radiox.remote
 
 import android.graphics.Color
 import android.graphics.Typeface
@@ -8,7 +8,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import android.view.LayoutInflater
-import com.joachimneumann.bisq.Database.BisqNotification
+import org.apache.cordova.radiox.remote.Database.BisqNotification
 import java.text.SimpleDateFormat
 
 

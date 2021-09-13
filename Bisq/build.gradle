@@ -19,7 +19,7 @@ android {
         // from http://www.codexpedia.com/android/using-git-commit-count-for-version-code-for-android/
         versionCode project.getVersionCode()
         versionName '0.' + project.getVersionCode()
-        applicationId "com.joachimneumann.bisq"
+        applicationId "org.apache.cordova.radiox.remote"
         minSdkVersion 15
         targetSdkVersion 27
         versionCode 18
@@ -32,7 +32,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
-    buildToolsVersion '28.0.3'
+    buildToolsVersion '27.0.2'
 }
 
 dependencies {
